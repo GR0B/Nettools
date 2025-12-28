@@ -13,6 +13,7 @@ Sends an ARP broadcast packets.
 
 ### TCP_trace.py ###
 Does a tracert to a TCP port under Windows. Used for troubleshooting some ZTNA issues. 
+Works by incramenting the TTL to get a response from each hop.  
 
 
 
